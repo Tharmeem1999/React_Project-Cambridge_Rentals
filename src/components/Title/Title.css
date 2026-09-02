@@ -1,0 +1,15 @@
+.title-section {
+    margin: 1.25rem 0;
+}
+
+.title-section h1 {
+    /* Shrinks the border to the text width */
+    width: fit-content;
+    /* Centers the element horizontally */
+    margin-inline: auto;
+    font-size: 1.75rem;
+    color: hsl(240, 25%, 26%);
+    /* Add a border at the bottom*/
+    border-bottom: 0.125rem solid #2cdebc;
+    padding: 0.625rem;
+}

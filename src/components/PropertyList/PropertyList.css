@@ -1,0 +1,8 @@
+.property-list {
+    display: flex;
+    /* allow wrapping of items to new ones */
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1.25rem;
+    padding: 1.25rem;
+}

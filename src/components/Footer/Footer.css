@@ -1,0 +1,39 @@
+.footer {
+    /* fix the footer at the bottom of the view point */
+    position: fixed;
+    /* align the footer to the botton edge */
+    bottom: 0;
+    left: 0;
+    right: 0;
+    /* ensure footer stays above other elements */
+    z-index: 10;
+    background-color: hsl(214, 86%, 14%);
+    color: white;
+    font-size: 1rem;
+    text-align: center;
+    padding: 0.625rem;
+}
+
+.message {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* style for icons inside the footer */
+.footer .icon {
+    margin-right: 0.5rem;
+    color: aquamarine;
+}
+
+.footer .status {
+    font-weight: bold;
+}
+
+.footer .status.open {
+    color: aquamarine;
+}
+
+.footer .status.closed {
+    color: red;
+}
