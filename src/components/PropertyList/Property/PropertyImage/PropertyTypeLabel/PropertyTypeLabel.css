@@ -1,0 +1,13 @@
+.property-type-label {
+    /* position the label absolutely within the card */
+    position: absolute;
+    top: 0.625rem;
+    right: 0.625rem;
+    background-color: rgb(72, 179, 143);
+    color: white;
+    padding: 0.3125rem 0.625rem;
+    border-radius: 0.25rem;
+    font-size: 0.75rem;
+    font-weight: bold;
+    text-transform: uppercase;
+}
