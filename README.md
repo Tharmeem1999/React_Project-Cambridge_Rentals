@@ -26,6 +26,11 @@ This project is a React-based rental listing application built with Vite for fas
 - `src/assets/`: Static assets including images.
 - `public/`: Public static files like favicon and index.html.
 
+## Screenshots
+
+<img width="1896" height="871" alt="Image" src="https://github.com/user-attachments/assets/8617dcc1-6b74-4c0e-bc8c-9f625874441a" />
+<img width="1896" height="873" alt="Image" src="https://github.com/user-attachments/assets/a5aa0910-d983-42ef-9f30-27abf68c0d70" />
+
 ## Getting Started
 
 1. Install dependencies with `npm install`.
